@@ -1,0 +1,9 @@
+ai
+api
+auth
+config
+database
+main
+models
+repositories
+services
